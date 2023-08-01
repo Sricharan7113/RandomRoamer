@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/RandomRoamer/static/css/main.8beb4ddd.css",
+    "main.js": "/RandomRoamer/static/js/main.6c3a76d9.js",
+    "static/js/787.fa4a499b.chunk.js": "/RandomRoamer/static/js/787.fa4a499b.chunk.js",
+    "static/media/Post3.jpg": "/RandomRoamer/static/media/Post3.ceec05068443ef35e885.jpg",
+    "static/media/ProfilePic3.jpg": "/RandomRoamer/static/media/ProfilePic3.11dfd0ef2e92f1c50aed.jpg",
+    "static/media/ProfilePic4.jpg": "/RandomRoamer/static/media/ProfilePic4.2107a670c0f50d4995f0.jpg",
+    "static/media/ProfilePic2.jpg": "/RandomRoamer/static/media/ProfilePic2.7d9c0c4eeeb06e42bc15.jpg",
+    "static/media/Post4.jpg": "/RandomRoamer/static/media/Post4.da47e9e265bf3ffcefe5.jpg",
+    "static/media/Post2.jpg": "/RandomRoamer/static/media/Post2.9344cebaa06b0bc059f9.jpg",
+    "static/media/Travel.png": "/RandomRoamer/static/media/Travel.190fd84f781a195c2bed.png",
+    "static/media/Blog.png": "/RandomRoamer/static/media/Blog.7a063b612d5d3207fe9c.png",
+    "static/media/Contact.png": "/RandomRoamer/static/media/Contact.5c7453bdcc01309ad893.png",
+    "static/media/Post1.jpg": "/RandomRoamer/static/media/Post1.ac9f664285ea4b37ec42.jpg",
+    "static/media/ProfilePic1.jpg": "/RandomRoamer/static/media/ProfilePic1.3cacec37a46fbf5d6e23.jpg",
+    "static/media/NightMode.png": "/RandomRoamer/static/media/NightMode.dce778ec0e8bd498f79d.png",
+    "static/media/Like.png": "/RandomRoamer/static/media/Like.3e18b1593d053260c22f.png",
+    "static/media/Instagram.png": "/RandomRoamer/static/media/Instagram.75e0546a6b5abe4c0506.png",
+    "static/media/Liked.png": "/RandomRoamer/static/media/Liked.3b8c5628cf2a02599312.png",
+    "static/media/DayMode.png": "/RandomRoamer/static/media/DayMode.2420d5a2b4230e46b39b.png",
+    "static/media/Linkedin.png": "/RandomRoamer/static/media/Linkedin.f249b38224ca41a0b909.png",
+    "index.html": "/RandomRoamer/index.html",
+    "main.8beb4ddd.css.map": "/RandomRoamer/static/css/main.8beb4ddd.css.map",
+    "main.6c3a76d9.js.map": "/RandomRoamer/static/js/main.6c3a76d9.js.map",
+    "787.fa4a499b.chunk.js.map": "/RandomRoamer/static/js/787.fa4a499b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8beb4ddd.css",
+    "static/js/main.6c3a76d9.js"
+  ]
+}
